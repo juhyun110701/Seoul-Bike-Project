@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <jsp:forward page="indexProc.jsp" >							
 	
-	<jsp:param name="CONTENTPAGE" value="main.jsp" />				
+	<jsp:param name="CONTENTPAGE" value="boardpostProc.jsp" />				
  </jsp:forward>
 
  
